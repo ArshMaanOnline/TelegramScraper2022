@@ -6,7 +6,7 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 
 
 
-20+ Features: Fixed Scraping Problem
+## 20+ Features: Fixed Scraping Problem
 
 🔥 Multi Login
 🔥 BanFilter + Delete Ban Numbers
