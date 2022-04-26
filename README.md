@@ -30,3 +30,16 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 - 🎓 &nbsp; Multi Adder for Computer
 - 🎓 &nbsp; Scraping Unlimited
 - 🎓 &nbsp; Use All Numbers at Once
+
+### 💻 &nbsp;PC Requirements
+- 🎓 &nbsp; Python (latest version)
+- 🎓 &nbsp; Notepad++
+- 🎓 &nbsp; Ram 2GB Minimum
+- 🎓 &nbsp; Any Processor
+- 🎓 &nbsp; 50GB Hard disk
+- 🎓 &nbsp; Internet Connection
+
+### 💻 &nbsp;Mobile Requirements
+- 🎓 &nbsp; Termux (Mobile App)
+- 🎓 &nbsp; Text Editor
+- 🎓 &nbsp; Internet Connection
