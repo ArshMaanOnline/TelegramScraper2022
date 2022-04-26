@@ -49,7 +49,8 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.icons8.com/fluency/344/telegram-app.png)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+<p align="left">
+  <a href="https://www.youtube.com/c/ArshMaan"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a  href="https://t.me/arshmaanonline" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
