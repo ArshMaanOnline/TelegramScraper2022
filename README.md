@@ -49,7 +49,6 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<p align="left">
   <a href="https://www.youtube.com/c/ArshMaan"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a  href="https://t.me/arshmaanonline" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
