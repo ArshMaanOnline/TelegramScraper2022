@@ -5,14 +5,7 @@ Tele Diamond is professional software for telegram marketing and you get a lot o
 Tele Diamond Script scrapes the active members from the target telegram groups and transfer them to your group and also you can send thousands of messages to users. You can grow any type of your business by adding thousands of telegram members to your group and you can run it on your mobile and computer.
 
 
-
-## 20+ Features: Fixed Scraping Problem
-
-### Hi there 👋
-
-## I'm Rahul Dhanola.
-
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;20+ Features 
 
 - 🤔 &nbsp; Multi Login
 - 🎓 &nbsp; BanFilter + Delete Ban Numbers
