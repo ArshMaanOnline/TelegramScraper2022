@@ -51,5 +51,5 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png)](https://twitter.com/brantlauro)
+[![image](https://img.icons8.com/fluency/344/telegram-app.png)](https://twitter.com/brantlauro)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
