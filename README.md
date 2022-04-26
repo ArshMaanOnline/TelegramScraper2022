@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Code White's profile!
+  Hi! i am Arsh Maan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
     <div align=center>
