@@ -8,24 +8,11 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 
 ## 20+ Features: Fixed Scraping Problem
 
-🔥 - Multi Login
-🔥 BanFilter + Delete Ban Numbers
-🔥 Limited Account Checker + Remover
-Scraper Public Groups
-Private Group Joiner
-Update First Name, Last Name, Username
-Normal Message Sender
-Message Sender For phone
-Multiple Message Sender
-Daily Online Working Filter (After Latest Update)
-Weekly Online Working Filter (After Latest Update)
-Super Fast Adding
-Set Profile Picture of all Mobile numbers
-Contact Merge Option for Phone + Computer
-Bulk Adder For Mobile
-No Need API ID
-Single Adder For Mobile
-Normal Adder for Computer
-Multi Adder for Computer
-Scraping Unlimited
-Use All Numbers at Once
+### Hi there 👋
+
+## I'm Rahul Dhanola.
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Multi Login
+- 🎓 &nbsp; BanFilter + Delete Ban Numbers
